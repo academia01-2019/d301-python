@@ -1,0 +1,25 @@
+Exercícios de Python
+
+1) Faça um programa que receba dois números e mostre:
+    - A soma                                           P.S.: função 'input()'
+    - A subtração                                      recebe valores no 
+    - A multiplicação                                  tipo string! Para
+    - E a divisão entre os dois                        alterar: int() e
+                                                       float()
+2) Faça um programa que receba quatro número e mostre
+a média entre os quatro.
+    Dica: média = (n1 + n2 + n3 + n4)/4
+3) Faça um programa que receba uma temperatura em Celcius e
+retorne ela em Fahrenheit. A fórmula de conversão é:
+                F = (C * 9/5) + 32
+
+4) Faça um programa que receba dois inputs, uma palavra/frase
+e uma letra. O programa deve retornar quantas vezes a letra apareceu
+na palavra/frase. Dica: contagem de valores .count('valor')
+
+5) Faça um programa que receba quantos números terá no cálculo da média
+e retorne a média deles. 
+    Exemplo: "Quantos números: 10" -> (n1+n2+...+n10)/10
+            "Quantos números: 5" -> (n1+n2+n3+...+n5)/5
+            DICA: podemos usar estruturas de repetição... tipo o for...
+            e definir o range... :)
