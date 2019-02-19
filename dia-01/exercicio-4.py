@@ -15,10 +15,20 @@ letra = input("Digite uma letra: ")
 
 contador = 0
 for i in frase:
-    if i is letra:
+    if i is letra: #is compara valor e tipo, equivale ao === no js
         contador = contador + 1
     
 print(f"A letra {letra} aparece {contador} vezes na palavra {frase}")
+#ESTRUTURA IF ELSE
+#if condição:
+#   bloco de código if IDENTADO
+# else:
+#   bloco de codigo else IDENTADO
+#
+#se tiver um else if em python é
+#elif condição:
+#   bloco de código elif IDENTADO
+#
 
 # 3- Jeito "completo"
 frase = input("Digite uma frase ou palavra: ")
